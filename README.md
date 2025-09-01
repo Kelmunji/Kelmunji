@@ -1,19 +1,22 @@
-# 👋 Hi, I'm Kelvin M.Githinji  
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Kelvin%20M.%20Githinji&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+</p>
 
-💻 Software Engineer | Backend & AI Enthusiast | DevOps Explorer  
+# Software Engineer | Backend & AI Enthusiast | DevOps Explorer  
 
 ---
 
-## 🚀 About Me  
-- Exploring **AI x Backend x DevOps**  
-- Skilled in **Python (Flask, Django), JavaScript (Node.js, React), SQL, Docker**  
-- Building projects around **Flask APIs, AI/ML models, automation, and trading bots**  
-- Passionate about creating **scalable systems** and **AI-driven applications**  
+## About Me  
+I build **scalable backend systems, AI-driven applications, and DevOps pipelines**.  
+- Experienced in **Python (Flask, Django), JavaScript (Node.js, React), SQL**  
+- Skilled with **Docker, Git, and Linux** in production workflows  
+- Projects span **Flask APIs, AI/ML models, automation, and trading bots**  
 - Graduate of **Moringa School (awaiting graduation)**  
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,24 +35,91 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Insights  
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelmunji&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelmunji&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelmunji&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelmunji&show_icons=true&theme=tokyonight" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelmunji&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelmunji&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelmunji&theme=tokyo-night" alt="activity graph"/>
+  </a>
+</p>
+
+---
+
+## Highlighted Projects  
+
+<p align="center">
+  <a href="https://github.com/kelmunji/portfolio-fullstack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelmunji&repo=portfolio-fullstack&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/kelmunji/ajali-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelmunji&repo=ajali-backend&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kelmunji/smc-indicator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelmunji&repo=smc-indicator&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/kelmunji/trading-bots">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelmunji&repo=trading-bots&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://raw.githubusercontent.com/kelmunji/kelmunji/output/github-contribution-grid-snake.svg)
+## Contributions  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kelmunji/kelmunji/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
-## 📫 Connect With Me  
-- 🌐 Portfolio:  https://portfolio-cecind4p3-kelmunjis-projects.vercel.app/#about
-- 💼 LinkedIn:  https://www.linkedin.com/in/kelvin-githinji-567368239/
-- 📧 Email:  githinjikelvin74@gmail.com
+## Dynamic Widgets  
+
+**Currently Learning**  
+![Learning](https://img.shields.io/badge/Currently%20Learning-DevOps%20%7C%20Kubernetes%20%7C%20AI%20Agents-blueviolet?style=for-the-badge)
+
+**Developer Quote**  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+**Profile Visitors**  
+![Visitors](https://komarev.com/ghpvc/?username=kelmunji&style=for-the-badge&color=blue)
 
 ---
-✨ *“Code, Learn, Build, Repeat.”*  
+
+## Writing & Articles  
+*(Coming soon)*  
+- [How I Built an AI-Driven Trading Bot](#)  
+- [Getting Started with Flask + React](#)  
+- [DevOps for Beginners: Docker in Action](#)  
+
+---
+
+## Resume  
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)](./Kelvin_Githinji_Resume.pdf)  
+
+---
+
+## Get in Touch  
+
+I’m open to **internship and junior software engineering opportunities** in Backend, AI, or DevOps.  
+Reach out via:  
+- [LinkedIn](https://www.linkedin.com/in/kelvin-githinji-567368239/)  
+- [Portfolio](https://portfolio-cecind4p3-kelmunjis-projects.vercel.app/#about)  
+- [Email](mailto:githinjikelvin74@gmail.com)  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer"/>
+</p>
