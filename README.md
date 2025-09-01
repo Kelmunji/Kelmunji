@@ -47,9 +47,9 @@
 ---
 
 ## 📫 Connect With Me  
-- 🌐 Portfolio: [Your Portfolio Link](#)  
-- 💼 LinkedIn: [Your LinkedIn Link](#)  
-- 📧 Email: your@email.com  
+- 🌐 Portfolio:  https://portfolio-cecind4p3-kelmunjis-projects.vercel.app/#about
+- 💼 LinkedIn:  https://www.linkedin.com/in/kelvin-githinji-567368239/
+- 📧 Email:  githinjikelvin74@gmail.com
 
 ---
 ✨ *“Code, Learn, Build, Repeat.”*  
