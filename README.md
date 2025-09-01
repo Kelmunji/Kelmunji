@@ -76,12 +76,12 @@ I build **scalable backend systems, AI-driven applications, and DevOps pipelines
 
 ---
 
-## Contributions  
+## 🐍 Contributions  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kelmunji/kelmunji/output/github-contribution-grid-snake.svg
-"/>
+  <img src="https://raw.githubusercontent.com/kelmunji/kelmunji/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
