@@ -42,7 +42,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-![snake gif](https://github.com/kelmunji/kelmunji/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/kelmunji/kelmunji/output/github-contribution-grid-snake.svg)
 
 ---
 
